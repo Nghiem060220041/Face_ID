@@ -1,4 +1,4 @@
-Ứng dụng Điểm Danh Bằng Khuôn Mặt
+* Ứng dụng Điểm Danh Bằng Khuôn Mặt
 - Ứng dụng này là một hệ thống quản lý điểm danh thông minh, sử dụng công nghệ nhận diện khuôn mặt để xác thực danh tính của người dùng.
 
 * Tính năng chính
@@ -7,7 +7,7 @@
 - Quản lý dữ liệu: Cập nhật, xoá và quản lý thông tin người dùng.
 - Báo cáo: Xuất báo cáo chi tiết về lịch sử điểm danh.
 
-*Công nghệ sử dụng
+* Công nghệ sử dụng
 -Ngôn ngữ lập trình: Python
 -Thư viện: OpenCV, dlib, TensorFlow (hoặc các mô hình AI khác)
 -Cơ sở dữ liệu: MySQL, SQLite hoặc MongoDB
